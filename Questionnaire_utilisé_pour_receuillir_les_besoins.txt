@@ -1,0 +1,18 @@
+Voici le questionnaire que nous avons posée par mail et nous avons ensuite lors d'un entretient affiner nos questions afin d'arriver sur une première version que nous avons fait validée lors du second mail pour enfin arriver à la version finale :
+
+- Quel sont vos besoins ?
+
+- Dans quel domaine se situe t-il ?
+
+- Quels problèmes rencontrez vous pour parvenir à ces besoins ?
+
+- Rencontrez vous régulièrement / à intervalles réguliers ces problèmes ?
+
+- Voulez vous recevoir des informations ou pouvoir en partager ?
+- Avez vous des préférences ?
+
+- Voulez vous un design particulier ?
+
+- Avez vous déjà réfléchi à des solutions pour résoudre ce besoin (Si oui, lesquels ?)
+
+- Existe-t-il une application qui répond partiellement à votre besoin et dont vous aimeriez juste un ajout / une modification ?
