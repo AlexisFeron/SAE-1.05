@@ -4,4 +4,4 @@ En équipe avec (Co-worker of the project) : Francois Yousse / Cyril Jacquemont
 
 ### OBJECTIF (Objective) :
 En récoltant le besoin exprimé par un client, il faut concevoir et proposer une solution au problème du client. </br>
-By collecting the need expressed by a customer, we must design and propose a solution to the customer's problem.
+(By collecting the need expressed by a customer, we must design and propose a solution to the customer's problem)
